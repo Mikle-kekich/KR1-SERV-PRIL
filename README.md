@@ -1,5 +1,6 @@
 КОНТРОЛЬНАЯ РАБОТА 1 
 
 
-<img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/2dcff04f-a0b4-455e-b384-373a7daff742" />
+<img width="498" height="258" alt="image" src="https://github.com/user-attachments/assets/ffeb557d-139d-422b-ac04-91e93f0e9281" />
+
 
