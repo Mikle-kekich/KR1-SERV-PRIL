@@ -1,7 +1,6 @@
 КОНТРОЛЬНАЯ РАБОТА 1 
 
-<img width="250" height="255" alt="image" src="https://github.com/user-attachments/assets/d42a7e79-eb5b-4575-b67b-ec20bc9a8d4b" />
-
+![MuaKissGIF](https://github.com/user-attachments/assets/54b65475-3bb8-4d62-8523-3370d898e759)
 
 
 
